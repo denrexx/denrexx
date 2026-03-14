@@ -11,8 +11,6 @@
 - Security from data engineering
 - Data Engineering
 
-🔐 Also studying security from the data engineering side
-
 🐧 Arch Linux user  
 🍎 macOS user  
 
