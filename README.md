@@ -8,9 +8,8 @@
 
 💻 Interested in:
 - Data Science
-- Security from data engineering
-- Data Engineering
 - Data Analytics
+- Security from data engineering
 
 🐧 Linux user  
 🍎 macOS user  
@@ -24,7 +23,3 @@
 
 Telegram: [@k1d1xx](https://t.me/k1d1xx)
 ProtonMail: kd1xxx@proton.me
-
-## GitHub activity
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
