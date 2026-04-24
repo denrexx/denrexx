@@ -11,7 +11,7 @@
 - Security from data engineering
 - Data Engineering
 
-🐧 Arch Linux user  
+🐧 Linux user  
 🍎 macOS user  
 
 🌍 Languages I speak:
@@ -21,7 +21,8 @@
 
 ## Contact
 
-Telegram: @k1d1xx
+Telegram: [@k1d1xx](https://t.me/k1d1xx)
+ProtonMail: kd1xxx@proton.me
 
 ## GitHub activity
 
