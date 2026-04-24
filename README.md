@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi I'm kd1xx 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Data+Science+Engineer+Student;Data+Engineering+and+ML;Arch+Linux+User;Learning+Data+Security;Always+building+stuff)
 
@@ -10,6 +10,7 @@
 - Data Science
 - Security from data engineering
 - Data Engineering
+- Data Analytics
 
 🐧 Linux user  
 🍎 macOS user  
