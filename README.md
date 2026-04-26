@@ -1,9 +1,5 @@
 # Hi I'm kd1xx 👋
 
-<p align="center">
-  <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/548/164/723.gif" alt="Boykisser" width="220" />
-</p>
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Data+Science+Engineer+Student;Data+Engineering+and+ML;Arch+Linux+User;Learning+Data+Security;Always+building+stuff)
 
 ## Stack
@@ -31,20 +27,33 @@
 
 ## About me
 
-🎓 Data Science Engineer Student  
-
-💻 Interested in:
-- Data Science
-- Data Analytics
-- Security from data engineering
-
-🐧 Linux user  
-🍎 macOS user  
-
-🌍 Languages I speak:
-- 🇺🇸English
-- 🇷🇺Russian
-- 🇷🇸Serbian
+<table>
+  <tr>
+    <td valign="top">
+      🎓 Data Science Engineer Student
+      <br /><br />
+      💻 Interested in:
+      <ul>
+        <li>Data Science</li>
+        <li>Data Analytics</li>
+        <li>Security from data engineering</li>
+      </ul>
+      🐧 Linux user
+      <br />
+      🍎 macOS user
+      <br /><br />
+      🌍 Languages I speak:
+      <ul>
+        <li>🇺🇸English</li>
+        <li>🇷🇺Russian</li>
+        <li>🇷🇸Serbian</li>
+      </ul>
+    </td>
+    <td valign="top" align="right">
+      <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/548/164/723.gif" alt="Boykisser" width="220" />
+    </td>
+  </tr>
+</table>
 
 ## Contact
 
