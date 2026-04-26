@@ -1,5 +1,9 @@
 # Hi I'm kd1xx 👋
 
+<p align="center">
+  <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/548/164/723.gif" alt="Boykisser" width="220" />
+</p>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Data+Science+Engineer+Student;Data+Engineering+and+ML;Arch+Linux+User;Learning+Data+Security;Always+building+stuff)
 
 ## Stack
