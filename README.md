@@ -4,13 +4,16 @@
 
 ## Stack
 
-<p>
+<p align="center">
+  <strong>Tech Stack</strong><br />
   <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" alt="Python, MySQL, PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48" />
 </p>
-<p>
+
+<p align="center">
+  <strong>Operating Systems</strong><br />
   <img src="https://skillicons.dev/icons?i=apple,arch" alt="Apple, Arch Linux" />
 </p>
 
