@@ -14,6 +14,15 @@
 🐧 Linux user  
 🍎 macOS user  
 
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,apple,arch" alt="Python, MySQL, PostgreSQL, Apple, Arch Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48" />
+</p>
+
 🌍 Languages I speak:
 - 🇺🇸English
 - 🇷🇺Russian
