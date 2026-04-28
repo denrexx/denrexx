@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td colspan="3" align="right"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple" width="44" height="44" /></td>
-    <td colspan="3" align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="44" height="44" /></td>
+    <td colspan="3" align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="44" height="44" /></td>
   </tr>
 </table>
 
@@ -50,7 +50,7 @@
       </ul>
     </td>
     <td valign="top" align="right">
-      <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/548/164/723.gif" alt="Boykisser" width="220" />
+      <img src="https://static.wikia.nocookie.net/a4b5396f-e286-47b3-86d1-4d153a331179/scale-to-width/755" alt="GIF" width="220" />
     </td>
   </tr>
 </table>
