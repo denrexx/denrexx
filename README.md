@@ -30,13 +30,13 @@
 <table>
   <tr>
     <td valign="top">
-      🎓 Data Science Engineer Student
+      🎓 Data Science Engineer
       <br /><br />
       💻 Interested in:
       <ul>
         <li>Data Science</li>
         <li>Data Analytics</li>
-        <li>Security from data engineering</li>
+        <li>Data Security</li>
       </ul>
       🐧 Linux user
       <br />
