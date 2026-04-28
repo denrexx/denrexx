@@ -2,10 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Data+Science+Engineer+Student;Data+Engineering+and+ML;Arch+Linux+User;Learning+Data+Security;Always+building+stuff)
 
-<p align="center">
-  <img src="./assets/contribution-snake.svg" alt="Snake animation" />
-</p>
-
 ## Stack
 
 <table align="center">
