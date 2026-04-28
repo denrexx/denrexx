@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Data+Science+Engineer+Student;Data+Engineering+and+ML;Arch+Linux+User;Learning+Data+Security;Always+building+stuff)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/denrexx/denrexx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="./assets/contribution-snake.svg" alt="Snake animation" />
 </p>
 
 ## Stack
@@ -54,7 +54,7 @@
       </ul>
     </td>
     <td valign="top" align="right">
-      <img src="https://media.tenor.com/NWbZxP5OcBIAAAAi/furry-quetzel.gif" alt="GIF" width="220" />
+      <img src="https://media.tenor.com/NWbZxP5OcBIAAAAi/furry-quetzel.gif" alt="GIF" width="176" />
     </td>
   </tr>
 </table>

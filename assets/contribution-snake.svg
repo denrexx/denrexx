@@ -1,0 +1,68 @@
+<svg width="720" height="160" viewBox="0 0 720 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="160" rx="18" fill="#0D1117"/>
+  <g fill="#161B22">
+    <circle cx="70" cy="44" r="12"/>
+    <circle cx="114" cy="44" r="12"/>
+    <circle cx="158" cy="44" r="12"/>
+    <circle cx="202" cy="44" r="12"/>
+    <circle cx="246" cy="44" r="12"/>
+    <circle cx="290" cy="44" r="12"/>
+    <circle cx="334" cy="44" r="12"/>
+    <circle cx="378" cy="44" r="12"/>
+    <circle cx="422" cy="44" r="12"/>
+    <circle cx="466" cy="44" r="12"/>
+    <circle cx="510" cy="44" r="12"/>
+    <circle cx="554" cy="44" r="12"/>
+    <circle cx="598" cy="44" r="12"/>
+    <circle cx="642" cy="44" r="12"/>
+    <circle cx="70" cy="80" r="12"/>
+    <circle cx="114" cy="80" r="12"/>
+    <circle cx="158" cy="80" r="12"/>
+    <circle cx="202" cy="80" r="12"/>
+    <circle cx="246" cy="80" r="12"/>
+    <circle cx="290" cy="80" r="12"/>
+    <circle cx="334" cy="80" r="12"/>
+    <circle cx="378" cy="80" r="12"/>
+    <circle cx="422" cy="80" r="12"/>
+    <circle cx="466" cy="80" r="12"/>
+    <circle cx="510" cy="80" r="12"/>
+    <circle cx="554" cy="80" r="12"/>
+    <circle cx="598" cy="80" r="12"/>
+    <circle cx="642" cy="80" r="12"/>
+    <circle cx="70" cy="116" r="12"/>
+    <circle cx="114" cy="116" r="12"/>
+    <circle cx="158" cy="116" r="12"/>
+    <circle cx="202" cy="116" r="12"/>
+    <circle cx="246" cy="116" r="12"/>
+    <circle cx="290" cy="116" r="12"/>
+    <circle cx="334" cy="116" r="12"/>
+    <circle cx="378" cy="116" r="12"/>
+    <circle cx="422" cy="116" r="12"/>
+    <circle cx="466" cy="116" r="12"/>
+    <circle cx="510" cy="116" r="12"/>
+    <circle cx="554" cy="116" r="12"/>
+    <circle cx="598" cy="116" r="12"/>
+    <circle cx="642" cy="116" r="12"/>
+  </g>
+  <path d="M70 80H246C274 80 274 44 302 44H510C538 44 538 116 566 116H642" stroke="#2EA043" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="580" stroke-dashoffset="580">
+    <animate attributeName="stroke-dashoffset" values="580;0;0;580" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="0" cy="0" r="12" fill="#3FB950">
+    <animateMotion dur="6s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#snake-path"/>
+    </animateMotion>
+  </circle>
+  <g transform="translate(0 -2)">
+    <path id="snake-path" d="M70 80H246C274 80 274 44 302 44H510C538 44 538 116 566 116H642" fill="none"/>
+  </g>
+  <circle cx="0" cy="0" r="3" fill="#0D1117">
+    <animateMotion dur="6s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#snake-path"/>
+    </animateMotion>
+  </circle>
+  <circle cx="0" cy="0" r="2" fill="#0D1117">
+    <animateMotion dur="6s" repeatCount="indefinite" rotate="auto" keyPoints="0.03;1" keyTimes="0;1" calcMode="linear">
+      <mpath href="#snake-path"/>
+    </animateMotion>
+  </circle>
+</svg>
