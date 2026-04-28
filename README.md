@@ -50,7 +50,7 @@
       </ul>
     </td>
     <td valign="top" align="right">
-      <img src="https://static.wikia.nocookie.net/a4b5396f-e286-47b3-86d1-4d153a331179/scale-to-width/755" alt="GIF" width="220" />
+      <img src="https://media.tenor.com/NWbZxP5OcBIAAAAi/furry-quetzel.gif" alt="GIF" width="220" />
     </td>
   </tr>
 </table>
