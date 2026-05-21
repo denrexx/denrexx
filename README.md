@@ -1,4 +1,4 @@
-# Hi I'm k11dx 👋
+# Hi I'm denrexx 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Data+Science+Engineer+Student;Data+Engineering+and+ML;Arch+Linux+User;Learning+Data+Security;Always+building+stuff)
 
