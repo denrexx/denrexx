@@ -44,10 +44,10 @@
       <br /><br />
       🌍 Languages I speak:
       <ul>
-        <li>🇺🇸English(C1)</li>
-        <li>🇷🇺Russian(C1)</li>
-        <li>🇸🇰Slovak(A2)</li>
-        <li>🇷🇸Serbian(A1)</li>
+        <li>🇺🇸English (C1)</li>
+        <li>🇷🇺Russian (C1)</li>
+        <li>🇸🇰Slovak (A2)</li>
+        <li>🇷🇸Serbian (A1)</li>
       </ul>
     </td>
     <td valign="top" align="right">
