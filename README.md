@@ -47,6 +47,7 @@
         <li>🇺🇸English</li>
         <li>🇷🇺Russian</li>
         <li>🇷🇸Serbian</li>
+        <li>🇸🇰Slovak</li>
       </ul>
     </td>
     <td valign="top" align="right">
