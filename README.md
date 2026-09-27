@@ -25,9 +25,11 @@
   </tr>
 </table>
 
-## About me
-
 <table>
+  <tr>
+    <th align="left" colspan="2"><h2>About me</h2></th>
+    <th align="left"><h2>Contact</h2></th>
+  </tr>
   <tr>
     <td valign="top">
       🎓 Data Science Engineer
@@ -53,10 +55,10 @@
     <td valign="top" align="right">
       <img src="https://media.tenor.com/NWbZxP5OcBIAAAAi/furry-quetzel.gif" alt="GIF" width="176" />
     </td>
+    <td valign="top">
+      <a href="https://t.me/k11dx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+      <br />
+      <a href="mailto:kd1xxx@proton.me"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail" /></a>
+    </td>
   </tr>
 </table>
-
-## Contact
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/k11dx)
-[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kd1xxx@proton.me)
