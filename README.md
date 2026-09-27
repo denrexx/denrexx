@@ -25,40 +25,26 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <th align="left" colspan="2"><h2>About me</h2></th>
-    <th align="left"><h2>Contact</h2></th>
-  </tr>
-  <tr>
-    <td valign="top">
-      🎓 Data Science Engineer
-      <br /><br />
-      💻 Interested in:
-      <ul>
-        <li>Data Science</li>
-        <li>Data Analytics</li>
-        <li>Data Security</li>
-      </ul>
-      🐧 Linux user
-      <br />
-      🍎 macOS user
-      <br /><br />
-      🌍 Languages I speak:
-      <ul>
-        <li>🇺🇸English (C1)</li>
-        <li>🇷🇺Russian (C1)</li>
-        <li>🇸🇰Slovak (A2)</li>
-        <li>🇷🇸Serbian (A1)</li>
-      </ul>
-    </td>
-    <td valign="top" align="right">
-      <img src="https://media.tenor.com/NWbZxP5OcBIAAAAi/furry-quetzel.gif" alt="GIF" width="176" />
-    </td>
-    <td valign="top">
-      <a href="https://t.me/k11dx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-      <br />
-      <a href="mailto:kd1xxx@proton.me"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail" /></a>
-    </td>
-  </tr>
-</table>
+## About me
+
+<a href="mailto:kd1xxx@proton.me"><img align="right" src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail" /></a><a href="https://t.me/k11dx"><img align="right" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a><br clear="right" />
+
+<img src="https://media.tenor.com/NWbZxP5OcBIAAAAi/furry-quetzel.gif" alt="GIF" width="176" align="right" />
+
+🎓 Data Science Engineer
+
+💻 Interested in:
+
+- Data Science
+- Data Analytics
+- Data Security
+
+🐧 Linux user<br />
+🍎 macOS user
+
+🌍 Languages I speak:
+
+- 🇺🇸English (C1)
+- 🇷🇺Russian (C1)
+- 🇸🇰Slovak (A2)
+- 🇷🇸Serbian (A1)
