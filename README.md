@@ -27,9 +27,9 @@
 
 ## About me
 
-<a href="mailto:kd1xxx@proton.me"><img align="right" hspace="48" src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail" /></a><a href="https://t.me/k11dx"><img align="right" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a><br clear="right" />
+<img align="right" src="assets/spacing.svg" width="144" height="1" alt="" /><a href="mailto:kd1xxx@proton.me"><img align="right" src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail" /></a><a href="https://t.me/k11dx"><img align="right" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a><br clear="right" />
 
-<img src="https://media.tenor.com/NWbZxP5OcBIAAAAi/furry-quetzel.gif" alt="GIF" width="176" align="right" hspace="64" />
+<img src="assets/spacing.svg" width="176" height="1" align="right" alt="" /><img src="https://media.tenor.com/NWbZxP5OcBIAAAAi/furry-quetzel.gif" alt="GIF" width="176" align="right" />
 
 🎓 Data Science Engineer
 
