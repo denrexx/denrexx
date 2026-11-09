@@ -44,7 +44,6 @@
 
 🌍 Languages I speak:
 
-- 🇺🇸English (C1)
+- 🇺🇸English (B2)
 - 🇷🇺Russian (C1)
 - 🇸🇰Slovak (A2)
-- 🇷🇸Serbian (A1)
